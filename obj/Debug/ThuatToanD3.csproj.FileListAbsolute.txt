@@ -1,0 +1,8 @@
+C:\Users\ntkie\source\repos\ThuatToanD3\bin\Debug\ThuatToanD3.exe.config
+C:\Users\ntkie\source\repos\ThuatToanD3\bin\Debug\ThuatToanD3.exe
+C:\Users\ntkie\source\repos\ThuatToanD3\bin\Debug\ThuatToanD3.pdb
+C:\Users\ntkie\source\repos\ThuatToanD3\obj\Debug\ThuatToanD3.csproj.AssemblyReference.cache
+C:\Users\ntkie\source\repos\ThuatToanD3\obj\Debug\ThuatToanD3.csproj.CoreCompileInputs.cache
+C:\Users\ntkie\source\repos\ThuatToanD3\obj\Debug\ThuatToanD3.exe
+C:\Users\ntkie\source\repos\ThuatToanD3\obj\Debug\ThuatToanD3.pdb
+C:\Users\ntkie\source\repos\ThuatToanD3\obj\Debug\ThuatToanD3.csproj.SuggestedBindingRedirects.cache
